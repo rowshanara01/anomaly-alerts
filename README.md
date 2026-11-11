@@ -138,7 +138,7 @@ Build a baseline of normal server behavior based on:
 - Weekday and weekend patterns.
 - Time-based variations.
 
-### 2. Robust Statistics
+#### 2. Robust Statistics ###
 
 Use:
 - Median.

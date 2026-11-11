@@ -103,7 +103,7 @@ It accounts for:
 Limitation:
 During flash sales, traffic may increase significantly and trigger false alarms.
 
-### 4. Load-Aware Robust Detection
+### 4. Load-Aware Robust Detection ##
 
 Adjusts expected latency and CPU usage based on incoming traffic.
 

@@ -1,4 +1,4 @@
-## Anomaly Detection + Smart Alerts (AIOps) ##
+#### Anomaly Detection + Smart Alerts (AIOps) ####
 
 ## The Problem
 

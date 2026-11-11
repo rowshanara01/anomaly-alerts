@@ -39,7 +39,7 @@ Start the API:
 
 uvicorn app.main:app --reload
 
-### API Example ##
+#### API Example ####
 
 Send a POST request to:
 

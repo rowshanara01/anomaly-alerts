@@ -1,6 +1,6 @@
 #### Anomaly Detection + Smart Alerts (AIOps) ####
 
-## The Problem
+## The Problem ##
 
 Server latency suddenly increases, errors increase, or traffic drops unexpectedly. Humans cannot monitor servers 24/7.
 

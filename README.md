@@ -117,7 +117,7 @@ The system understands this relationship and avoids treating every traffic-relat
 
 This is the selected method for production serving in this project.
 
-### 5. Isolation Forest
+### 5. Isolation Forest ###
 
 An unsupervised machine learning algorithm that analyzes multiple server metrics together.
 

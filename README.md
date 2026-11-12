@@ -255,7 +255,7 @@ Implement deep learning-based anomaly detection using:
 
 Compare their performance against Isolation Forest.
 
-### 4. Detect Gradual Changes Using CUSUM and EWMA
+### 4. Detect Gradual Changes Using CUSUM and EWMA ###
 
 Implement:
 

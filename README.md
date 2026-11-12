@@ -89,7 +89,7 @@ It identifies unusual changes relative to recent behavior.
 Limitation:
 Gradual increases can eventually become part of the new normal, making slow memory leaks difficult to detect.
 
-### 3. Seasonal Robust Detection
+#### 3. Seasonal Robust Detection ####
 
 Uses the normal behavior of the same minute of the day as a baseline.
 

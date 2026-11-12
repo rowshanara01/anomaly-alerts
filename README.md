@@ -157,7 +157,7 @@ Residual = Actual Value - Expected Value
 
 This helps distinguish normal load-related increases from actual anomalies.
 
-### 4. Alert Engineering
+### 4. Alert Engineering ###
 
 Implement practical alert management techniques:
 

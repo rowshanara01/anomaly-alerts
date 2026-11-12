@@ -246,7 +246,7 @@ For example:
 
 Use this feedback to improve detection thresholds and reduce unnecessary alerts.
 
-### 3. LSTM and Autoencoder-Based Detection
+### 3. LSTM and Autoencoder-Based Detection ##
 
 Implement deep learning-based anomaly detection using:
 
@@ -273,7 +273,7 @@ Replace the generated dataset with real monitoring data exported from:
 
 Evaluate the system using actual production metrics.
 
-### 6. Automatic Severity Classification##
+### 6. Automatic Severity Classification ##
 
 Assign severity levels to detected incidents.
 

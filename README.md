@@ -194,7 +194,7 @@ Implement:
 
 This allows the system to process incoming metrics while maintaining separate monitoring states for different services.
 
-## Understanding the Trade-offs
+## Understanding the Trade-offs ##
 
 Run:
 

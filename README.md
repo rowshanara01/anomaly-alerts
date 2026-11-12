@@ -166,7 +166,7 @@ Implement practical alert management techniques:
 - Cooldown: Apply a 30-minute cooldown period.
 - Reason-based alerts: Include the reason behind each alert.
 
-### 5. Evaluation Metrics
+### 5. Evaluation Metrics ###
 
 Evaluate the system using operational metrics instead of relying only on accuracy.
 

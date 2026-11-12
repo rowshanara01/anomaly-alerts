@@ -177,7 +177,7 @@ Measure:
 - False Alarms per Day: How frequently does the system generate unnecessary alerts?
 - Detection Delay: How long does it take to detect an incident?
 
-### 6. Threshold Selection ###
+#### 6. Threshold Selection ####
 
 Determine detection thresholds using training data without looking at incident labels.
 

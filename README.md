@@ -224,7 +224,7 @@ The final decision depends on incident impact, alert fatigue, and operational re
 
 ## Advanced Challenges
 
-### 1. Multi-Service Correlation
+### 1. Multi-Service Correlation ###
 
 Detect relationships between multiple services.
 

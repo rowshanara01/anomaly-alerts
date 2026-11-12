@@ -222,7 +222,7 @@ For example:
 
 The final decision depends on incident impact, alert fatigue, and operational requirements.
 
-## Advanced Challenges
+## Advanced Challenges ##
 
 ### 1. Multi-Service Correlation ###
 

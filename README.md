@@ -69,7 +69,7 @@ The API analyzes incoming server metrics and returns an anomaly score, detection
 
 #### The 5 Anomaly Detection Methods ####
 
-### 1. Static Threshold ##
+#### 1. Static Threshold ####
 
 A traditional monitoring approach similar to Grafana's fixed threshold alerts.
 

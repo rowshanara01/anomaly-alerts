@@ -131,7 +131,7 @@ Unlike simple threshold-based approaches, it considers multiple signals simultan
 
 ## Technologies and Engineering Concepts Used ##
 
-### 1. Seasonality and Baseline Modeling
+### 1. Seasonality and Baseline Modeling ###
 
 Build a baseline of normal server behavior based on:
 - Morning and night traffic.

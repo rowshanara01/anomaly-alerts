@@ -185,7 +185,7 @@ Evaluate the final performance on test data only once.
 
 This helps prevent data leakage and unrealistic performance estimates.
 
-### 7. Stateful Streaming API
+### 7. Stateful Streaming API  ###
 
 Implement:
 - Stateful metric processing.

@@ -13,7 +13,7 @@ However, using only fixed thresholds (e.g., "latency > 350") creates several pro
 
 The goal is to build an intelligent anomaly detection system that can identify unusual server behavior and generate meaningful alerts automatically.
 
-## How to Run the Project ##
+#### How to Run the Project ####
 
 Install the dependencies:
 

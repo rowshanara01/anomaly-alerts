@@ -234,7 +234,7 @@ If Service A fails and Service B starts generating errors, identify the relation
 
 Instead of generating separate alerts for every service, group related alerts and identify the possible root cause.
 
-### 2. Alert Feedback System
+### 2. Alert Feedback System ##
 
 Allow engineers to provide feedback on generated alerts.
 

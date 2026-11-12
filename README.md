@@ -80,7 +80,7 @@ If latency > 350 ms, trigger an alert.
 Limitation:
 It cannot effectively detect gradual changes or unexpected traffic drops.
 
-### 2. Rolling Z-Score ####
+#### 2. Rolling Z-Score ####
 
 Compares current server metrics against the previous 60 minutes.
 

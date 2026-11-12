@@ -273,7 +273,7 @@ Replace the generated dataset with real monitoring data exported from:
 
 Evaluate the system using actual production metrics.
 
-### 6. Automatic Severity Classification
+### 6. Automatic Severity Classification##
 
 Assign severity levels to detected incidents.
 

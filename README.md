@@ -67,7 +67,7 @@ Example response:
 
 The API analyzes incoming server metrics and returns an anomaly score, detection status, alert status, and the reason behind the detection.
 
-###3 The 5 Anomaly Detection Methods ####
+#### The 5 Anomaly Detection Methods ####
 
 ### 1. Static Threshold ##
 

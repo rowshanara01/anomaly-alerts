@@ -147,7 +147,7 @@ Use:
 
 These methods are less sensitive to extreme outliers than traditional mean and standard deviation.
 
-### 3. Load-Aware Residual Detection
+### 3. Load-Aware Residual Detection ###
 
 Calculate the expected metric value based on traffic load.
 

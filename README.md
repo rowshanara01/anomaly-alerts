@@ -129,7 +129,7 @@ It can detect unusual patterns involving:
 
 Unlike simple threshold-based approaches, it considers multiple signals simultaneously.
 
-## Technologies and Engineering Concepts Used
+## Technologies and Engineering Concepts Used ##
 
 ### 1. Seasonality and Baseline Modeling
 

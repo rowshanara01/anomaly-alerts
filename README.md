@@ -264,7 +264,7 @@ Implement:
 
 These techniques can help detect gradual changes, such as slowly increasing latency or memory usage.
 
-### 5. Use Real-World Monitoring Data
+#### 5. Use Real-World Monitoring Data ####
 
 Replace the generated dataset with real monitoring data exported from:
 

@@ -246,7 +246,7 @@ For example:
 
 Use this feedback to improve detection thresholds and reduce unnecessary alerts.
 
-### 3. LSTM and Autoencoder-Based Detection ##
+#### 3. LSTM and Autoencoder-Based Detection ####
 
 Implement deep learning-based anomaly detection using:
 
